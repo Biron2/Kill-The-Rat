@@ -1,0 +1,19 @@
+{
+    "idSave": 533,
+    "isFirstSession": false,
+    "language": "ru",
+    "promptDone": false,
+    "money": 5072523,
+    "level": 5,
+    "isWeapon2unlocked": true,
+    "isWeapon3unlocked": true,
+    "isWeapon4unlocked": true,
+    "isWeapon5unlocked": true,
+    "isWeapon6unlocked": true,
+    "choosenWeapon": 3,
+    "bullets_slot_counter": 8,
+    "is_sounds_changed": true,
+    "sfx": 1.0,
+    "music": 1.0,
+    "showedad_for_gun": 4
+}
